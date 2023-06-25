@@ -1,0 +1,24 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+section{
+	background-image:linear-gradient(#04045ec9,#04045ec9),url("images/TEC027.png");
+    background-repeat:no-repeat;
+}
+input{
+	border:none;
+}
+input:focus{
+	border:none;
+	outline:none
+}
+.bg-color{
+	background-color:#111731d6;
+    z-index:+1;
+}
+.bg-2{
+	background-image:url("images/TEC028.png");
+	
+}
